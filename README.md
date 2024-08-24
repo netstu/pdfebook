@@ -8,6 +8,8 @@
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/GrindGold/pdf">
 </p>
 
+解压密码是 hfy1234或twj1234或twj123
+
 **强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
 
 pdf是一个收集计算机领域经典书籍的开源项目，供各位同学免费使用，永不收费！
