@@ -110,14 +110,6 @@ pdf是一个收集计算机领域经典书籍的开源项目，供各位同学�
 - [大格局！清华大学计算机系课程攻略共享计划！附赠离线版资源！](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247494080&idx=1&sn=478e6640f13c9f73ea3053db2f4ccaff&chksm=c1421351f6359a475c26f8a7e629196b254d737d254f8f11b7d3fd50be07b737997ac2ea2919&token=692843928&lang=zh_CN#rd)
 - [C语言源码免费分享！超级玛丽、贪吃蛇、学生管理系统等](https://mp.weixin.qq.com/s/ZUHtQxaahrGjvAZVu5jKKg)
 
-## 3、赞赏
-
-<div align=center>
-    <p>如果心情好，不介意赞赏一下，祝君 bug 退散</p>
-<figure class="half" align="center">
-    <img src="./image/zhifubao.png" style="right;zoom: 30%;"  />
-                                                                                                                        <img src="./image/wechat.png"  style="right;zoom: 27%;"  />
-                                                                                                                         </figure></div>
 
 
 
